@@ -1,5 +1,7 @@
 # Sales Data Analysis - Complete Documentation
 
+<img width="1640" height="471" alt="image" src="https://github.com/user-attachments/assets/80d48b7e-0873-4415-bcf0-4b86d48eeeba" />
+
 ## 📋 Project Overview
 
 This project performs comprehensive analysis on sales data containing 1,194 orders across multiple categories, states, and time periods. The analysis leverages Python's data science stack to extract meaningful insights from transaction data spanning 2020-2025.
@@ -179,13 +181,24 @@ This project performs comprehensive analysis on sales data containing 1,194 orde
 1. **sales_analysis_dashboard.png** (20×24 inches, 300 DPI)
    - 12-panel visualization dashboard
    - Category, payment, geographic, and temporal analyses
+  
+### Sales Analysis - 
+---
+
+<img width="5959" height="7169" alt="sales_analysis_dashboard" src="https://github.com/user-attachments/assets/4041b655-03dd-4be5-b679-5b2f7d046cfb" />
+
+---
 
 2. **correlation_matrix.png** (10×8 inches, 300 DPI)
    - Heatmap showing relationships between numerical variables
    - Color-coded correlation coefficients
 
+### Correlation Matrix - 
 ---
 
+<img width="2537" height="2367" alt="correlation_matrix" src="https://github.com/user-attachments/assets/8f7d7bec-1ebc-4074-88a1-10336d7d4879" />
+
+---
 ## 🚀 How to Run
 
 ```bash
